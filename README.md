@@ -16,3 +16,26 @@ By embracing an agile and data-driven approach, coupled with a keen understandin
 ![Top](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/c277ce60-f75f-4135-83f3-461f614df5e7)
 
 The horizontal bar chart displays the top 25 apps with the highest average ratings across diverse categories, reflecting varied user preferences. Notable examples include Associated Credit Union Mobile in Finance, Cooking Madness in Gaming, FreePrints in Photography, and GoodRx Drug Prices and Coupons in Medical. These apps showcase a range of functionalities, from communication to education and physical well-being, all achieving remarkable 4.9 ratings, signifying exceptional user satisfaction.
+
+![Top Geners](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/f0fd7ab1-abda-4242-b066-08510c4e02a4)
+
+The top categories among users' preferences are Photography, Social, Communication, Tools, and Casual. Photography apps lead the list, reflecting the popularity of smartphone photography and social media. Social apps facilitate digital connections and content sharing, while Communication apps enable real-time conversations. Tools apps offer productivity-enhancing utilities, and Casual apps provide leisure and entertainment options for users.
+
+![Avg Number of Installs PNG](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/2f005147-f596-4fa8-8264-2d7160465eee)
+
+The data indicates a prevailing trend towards compact app sizes, with most falling between 1 to 20 MB. This reflects a preference for apps that consume less device storage. Many apps also vary in size with the device, showcasing adaptability across hardware configurations. However, smaller apps tend to have fewer installs and user reviews, suggesting a trade-off between reduced storage usage and lower user engagement.
+
+![Paid and unpaid](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/ef25b1f4-857a-40fd-8fe2-856d3c547feb)
+
+The pie chart illustrates a stark contrast between free and paid apps on the Google Play Store, with free apps dominating at 92.3% compared to paid apps at 7.7%. Additionally, around 80.93% of apps have no age restrictions, while the rest specify age limitations. This reflects the prevailing trend of free-to-download apps and diverse age accessibility on the platform.
+
+![Negative Positive](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/cd3f228d-ed56-470c-94eb-6c64ca30515d)
+
+The chart analysis shows a prevalent trend of positive user reviews, particularly in gaming apps, indicating a favorable sentiment overall. Conversely, social apps tend to have more negative reviews, suggesting areas for improvement. This highlights the impact of user perception and genre specificity on app performance.
+
+![Sentiment](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/6e572773-4449-4a73-8db9-08e02fa2b18e)
+
+The histogram analysis reveals a predominant trend of positive sentiment among users, with most apps receiving appreciation on the Play Store. However, a tail on the negative side indicates some dissatisfaction. The skewed-right distribution suggests higher concentrations of positive sentiment compared to negative. Ratings between 4 and 5 are prevalent, indicating overall satisfaction. Some apps receive exceptionally high ratings, signifying strong user enthusiasm. Negative reviews highlight areas for improvement, providing valuable insights for developers.
+
+
+![Heatmap](https://github.com/VenkyAdi/Play-Store-App-Review-Analysis/assets/38469568/0e482194-e1a0-468c-8c21-15ada4e386ba)
